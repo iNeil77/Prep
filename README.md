@@ -956,46 +956,6 @@ Supplemental:
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
-See [Book List above](#book-list)
-
-## Coding exercises/challenges
-
-Once you've learned your brains out, put those brains to work.
-Take coding challenges every day, as many as you can.
-
-- [ ] [How to Find a Solution](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
-- [ ] [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/)
-
-Coding Interview Question Videos:
-- [IDeserve (88 videos)](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
-- [Tushar Roy (5 playlists)](https://www.youtube.com/user/tusharroy2525/playlists?shelf_id=2&view=50&sort=dd)
-
-Challenge sites:
-- [LeetCode](https://leetcode.com/)
-- [TopCoder](https://www.topcoder.com/)
-- [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)
-- [Codewars](http://www.codewars.com)
-- [HackerEarth](https://www.hackerearth.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [Codility](https://codility.com/programmers/)
-- [InterviewCake](https://www.interviewcake.com/)
-- [Geeks for Geeks](http://www.geeksforgeeks.org/)
-- [InterviewBit](https://www.interviewbit.com/invite/icjf)
-- [Sphere Online Judge (spoj)](http://www.spoj.com/)
-
-Challenge repos:
-- [Interactive Coding Interview Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges)
-
-Mock Interviews:
-- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview.
-- [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
-- [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
-
-## Once you're closer to the interview
-
-- [ ] Cracking The Coding Interview Set 2 (videos):
-    - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
-    - [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
 
 ## Additional Books
 
@@ -1265,38 +1225,6 @@ Mock Interviews:
     - [ ] [Graph Alg. IV: Intro to geometric algorithms - Lecture 9](https://youtu.be/XIAQRlNkJAw?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3164)
     - [ ] [Geometric Algorithms: Graham & Jarvis - Lecture 10](https://www.youtube.com/watch?v=J5aJEcOr6Eo&index=10&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
     - [ ] [Divide & Conquer: Convex Hull, Median Finding](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
-
-- ### Discrete math
-    - see videos below
-
-- ### Machine Learning
-    - [ ] Why ML?
-        - [ ] [How Google Is Remaking Itself As A Machine Learning First Company](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70)
-        - [ ] [Large-Scale Deep Learning for Intelligent Computer Systems (video)](https://www.youtube.com/watch?v=QSaZGT4-6EY)
-        - [ ] [Deep Learning and Understandability versus Software Engineering and Verification by Peter Norvig](https://www.youtube.com/watch?v=X769cyzBNVw)
-    - [ ] [Google's Cloud Machine learning tools (video)](https://www.youtube.com/watch?v=Ja2hxBAwG_0)
-    - [ ] [Google Developers' Machine Learning Recipes (Scikit Learn & Tensorflow) (video)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
-    - [ ] [Tensorflow (video)](https://www.youtube.com/watch?v=oZikw5k_2FM)
-    - [ ] [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
-    - [ ] [Practical Guide to implementing Neural Networks in Python (using Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
-    - Courses:
-        - [Great starter course: Machine Learning](https://www.coursera.org/learn/machine-learning)
-              - [videos only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
-              - see videos 12-18 for a review of linear algebra (14 and 15 are duplicates)
-        - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
-        - [Google's Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning--ud730)
-        - [Google/Kaggle Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
-        - [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/drive)
-        - [Metis Online Course ($99 for 2 months)](http://www.thisismetis.com/explore-data-science)
-    - Resources:
-        - Books:
-            - [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/)
-            - [Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
-            - [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/)
-        - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-        - Data School: http://www.dataschool.io/
-
---
 
 ## Additional Detail on Some Subjects
 
